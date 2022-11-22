@@ -1,0 +1,247 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"IRON",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_ads_natives":"",
+         "main_ads_rewards":"",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Sholawat Banjari",
+         "image":"file:///android_asset/image/icon.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Sholawat Banjari",
+         "title":"ABADNA RABB",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari001.mp3",
+         "lyrics":""
+      },
+      {
+         "id":2,
+         "name_category":"Sholawat Banjari",
+         "title":"AGHITSNA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari002.mp3",
+         "lyrics":""
+      },
+      {
+         "id":3,
+         "name_category":"Sholawat Banjari",
+         "title":"AHMAD YA HABIBI",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari003.mp3",
+         "lyrics":""
+      },
+      {
+         "id":4,
+         "name_category":"Sholawat Banjari",
+         "title":"ALA BIDZIKRILLAH",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari004.mp3",
+         "lyrics":""
+      },
+      {
+         "id":5,
+         "name_category":"Sholawat Banjari",
+         "title":"ALLAHU BINURIHI",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari005.mp3",
+         "lyrics":""
+      },
+      {
+         "id":6,
+         "name_category":"Sholawat Banjari",
+         "title":"AL-MISKU FAH",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari006.mp3",
+         "lyrics":""
+      },
+      {
+         "id":7,
+         "name_category":"Sholawat Banjari",
+         "title":"AL-MUSTHOFA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari007.mp3",
+         "lyrics":""
+      },
+      {
+         "id":8,
+         "name_category":"Sholawat Banjari",
+         "title":"ANTASSALAM",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari008.mp3",
+         "lyrics":""
+      },
+      {
+         "id":9,
+         "name_category":"Sholawat Banjari",
+         "title":"BUSYRO LANA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari009.mp3",
+         "lyrics":""
+      },
+      {
+         "id":10,
+         "name_category":"Sholawat Banjari",
+         "title":"GHUROBA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari010.mp3",
+         "lyrics":""
+      },
+      {
+         "id":11,
+         "name_category":"Sholawat Banjari",
+         "title":"AYYUL HADI",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari011.mp3",
+         "lyrics":""
+      },
+      {
+         "id":12,
+         "name_category":"Sholawat Banjari",
+         "title":"HUWAN NUR",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari012.mp3",
+         "lyrics":""
+      },
+      {
+         "id":13,
+         "name_category":"Sholawat Banjari",
+         "title":"ISYFA LANA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari013.mp3",
+         "lyrics":""
+      },
+      {
+         "id":14,
+         "name_category":"Sholawat Banjari",
+         "title":"KHOIROL BARIYYAH",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari014.mp3",
+         "lyrics":""
+      },
+      {
+         "id":15,
+         "name_category":"Sholawat Banjari",
+         "title":"KULLUL QULUB",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari015.mp3",
+         "lyrics":""
+      },
+      {
+         "id":16,
+         "name_category":"Sholawat Banjari",
+         "title":"MAN ANA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari016.mp3",
+         "lyrics":""
+      },
+      {
+         "id":17,
+         "name_category":"Sholawat Banjari",
+         "title":"NURUN HALLA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari017.mp3",
+         "lyrics":""
+      },
+      {
+         "id":18,
+         "name_category":"Sholawat Banjari",
+         "title":"QOD KAFANI",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari018.mp3",
+         "lyrics":""
+      },
+      {
+         "id":19,
+         "name_category":"Sholawat Banjari",
+         "title":"SA'DUNA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari019.mp3",
+         "lyrics":""
+      },
+      {
+         "id":20,
+         "name_category":"Sholawat Banjari",
+         "title":"SUBHANA MAN",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari020.mp3",
+         "lyrics":""
+      },
+      {
+         "id":21,
+         "name_category":"Sholawat Banjari",
+         "title":"SYAHRUR ROBI",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari021.mp3",
+         "lyrics":""
+      },
+      {
+         "id":22,
+         "name_category":"Sholawat Banjari",
+         "title":"SYAIKHONA",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari022.mp4",
+         "lyrics":""
+      },
+      {
+         "id":23,
+         "name_category":"Sholawat Banjari",
+         "title":"WULIDAL MUSYARROF",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari023.mp5",
+         "lyrics":""
+      },
+      {
+         "id":24,
+         "name_category":"Sholawat Banjari",
+         "title":"YA KHOIRO HADI",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari024.mp6",
+         "lyrics":""
+      },
+      {
+         "id":25,
+         "name_category":"Sholawat Banjari",
+         "title":"YA SYAHIDAN",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari025.mp7",
+         "lyrics":""
+      },
+      {
+         "id":26,
+         "name_category":"Sholawat Banjari",
+         "title":"YA RASULULLAH",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/banjari026.mp8",
+         "lyrics":""
+      }
+   ]
+}
