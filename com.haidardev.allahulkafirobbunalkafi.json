@@ -1,0 +1,207 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sholawat",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id":1,
+      "name_category":"Sholawat",
+      "title":"Allahul Kafi Robbunal Kafi 1",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi001.mp3",
+      "lyrics":""
+    },
+    {
+      "id":2,
+      "name_category":"Sholawat",
+      "title":"Allahul Kafi Robbunal Kafi 2",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi002.mp3",
+      "lyrics":""
+    },
+    {
+      "id":3,
+      "name_category":"Sholawat",
+      "title":"Allahul Kafi Robbunal Kafi 3",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi003.mp3",
+      "lyrics":""
+    },
+    {
+      "id":4,
+      "name_category":"Sholawat",
+      "title":"Allahul Kafi Robbunal Kafi 4",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi004.mp3",
+      "lyrics":""
+    },
+    {
+      "id":5,
+      "name_category":"Sholawat",
+      "title":"Allahul Kafi Robbunal Kafi 5",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi005.mp3",
+      "lyrics":""
+    },
+    {
+      "id":6,
+      "name_category":"Sholawat",
+      "title":"Allahumma Antassalam",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi006.mp3",
+      "lyrics":""
+    },
+    {
+      "id":7,
+      "name_category":"Sholawat",
+      "title":"Al Malikul Khaqqul Mubin",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi007.mp3",
+      "lyrics":""
+    },
+    {
+      "id":8,
+      "name_category":"Sholawat",
+      "title":"Adadama Fi Ilmillah",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi008.mp3",
+      "lyrics":""
+    },
+    {
+      "id":9,
+      "name_category":"Sholawat",
+      "title":"Sandangane Diganti Putih",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi009.mp3",
+      "lyrics":""
+    },
+    {
+      "id":10,
+      "name_category":"Sholawat",
+      "title":"Ya Robibil Mustofa",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi010.mp3",
+      "lyrics":""
+    },
+    {
+      "id":11,
+      "name_category":"Sholawat",
+      "title":"Tombo Ati",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi011.mp3",
+      "lyrics":""
+    },
+    {
+      "id":12,
+      "name_category":"Sholawat",
+      "title":"Thola'al Badru",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi012.mp3",
+      "lyrics":""
+    },
+    {
+      "id":13,
+      "name_category":"Sholawat",
+      "title":"Ya Rabbi Subhanallah",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi013.mp3",
+      "lyrics":""
+    },
+    {
+      "id":14,
+      "name_category":"Sholawat",
+      "title":"Syi'iran NU",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi014.mp3",
+      "lyrics":""
+    },
+    {
+      "id":15,
+      "name_category":"Sholawat",
+      "title":"Sholatullah Salamullah",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi015.mp3",
+      "lyrics":""
+    },
+    {
+      "id":16,
+      "name_category":"Sholawat",
+      "title":"Sholawat Thibbil Qulub",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi016.mp3",
+      "lyrics":""
+    },
+    {
+      "id":17,
+      "name_category":"Sholawat",
+      "title":"Sholawat Nariyah",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi017.mp3",
+      "lyrics":""
+    },
+    {
+      "id":18,
+      "name_category":"Sholawat",
+      "title":"Sholawat Asyghil",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi018.mp3",
+      "lyrics":""
+    },
+    {
+      "id":19,
+      "name_category":"Sholawat",
+      "title":"Sayyidul Istighfar",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi019.mp3",
+      "lyrics":""
+    },
+    {
+      "id":20,
+      "name_category":"Sholawat",
+      "title":"Saben Malam Jumat",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi020.mp3",
+      "lyrics":""
+    },
+    {
+      "id":21,
+      "name_category":"Sholawat",
+      "title":"Syi'ir Tanpo Wathon",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/kahfi021.mp3",
+      "lyrics":""
+    }
+  ]
+}
