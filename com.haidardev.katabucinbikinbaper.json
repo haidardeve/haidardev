@@ -31,7 +31,7 @@
     ],"sticker_packs": [
     {
       "id": "1",
-      "name": "Kamu Nanya Stiker",
+      "name": "Stiker Kata Bucin",
       "folder_link":"file:///android_asset/1/",
       "image_cover": "00.png",
       "stickers": [
@@ -52,12 +52,18 @@
         },
         {
           "image_file": "06.webp"
+        },
+		{
+          "image_file": "07.webp"
+        },
+		{
+          "image_file": "08.webp"
         }
       ]
     },
 	{
       "id": "2",
-      "name": "Kamu Nanya Stiker",
+      "name": "Stiker Kata Bucin",
       "folder_link":"file:///android_asset/2/",
       "image_cover": "00.png",
       "stickers": [
@@ -78,12 +84,21 @@
         },
         {
           "image_file": "06.webp"
+        },
+		{
+          "image_file": "07.webp"
+        },
+		{
+          "image_file": "08.webp"
+        },
+		{
+          "image_file": "09.webp"
         }
       ]
     },
 	{
       "id": "3",
-      "name": "Kamu Nanya Stiker",
+      "name": "Stiker Kata Bucin",
       "folder_link":"file:///android_asset/3/",
       "image_cover": "00.png",
       "stickers": [
@@ -104,12 +119,18 @@
         },
         {
           "image_file": "06.webp"
+        },
+		{
+          "image_file": "07.webp"
+        },
+		{
+          "image_file": "08.webp"
         }
       ]
     },
 	{
       "id": "4",
-      "name": "Kamu Nanya Stiker",
+      "name": "Stiker Kata Bucin",
       "folder_link":"file:///android_asset/4/",
       "image_cover": "00.png",
       "stickers": [
@@ -130,12 +151,15 @@
         },
         {
           "image_file": "06.webp"
+        },
+		{
+          "image_file": "07.webp"
         }
       ]
     },
 	{
       "id": "5",
-      "name": "Kamu Nanya Stiker",
+      "name": "Stiker Kata Bucin",
       "folder_link":"file:///android_asset/5/",
       "image_cover": "00.png",
       "stickers": [
@@ -156,12 +180,15 @@
         },
         {
           "image_file": "06.webp"
+        },
+		{
+          "image_file": "07.webp"
         }
       ]
     },
 	{
       "id": "6",
-      "name": "Kamu Nanya Stiker",
+      "name": "Stiker Kata Bucin",
       "folder_link":"file:///android_asset/6/",
       "image_cover": "00.png",
       "stickers": [
@@ -182,29 +209,6 @@
         },
         {
           "image_file": "06.webp"
-        }
-      ]
-    },
-	{
-      "id": "7",
-      "name": "Kamu Nanya Stiker",
-      "folder_link":"file:///android_asset/7/",
-      "image_cover": "00.png",
-      "stickers": [
-        {
-          "image_file": "01.webp"
-        },
-        {
-          "image_file": "02.webp"
-        },
-        {
-          "image_file": "03.webp"
-        },
-        {
-          "image_file": "04.webp"
-        },
-        {
-          "image_file": "05.webp"
         }
       ]
     }
